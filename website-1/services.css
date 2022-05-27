@@ -1,0 +1,151 @@
+
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    opacity: 0.6;
+}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.6;
+    margin-top: 4%;
+    margin-left:9% ;
+    margin-right: 9%;
+    line-height: 20px;
+    text-align: center;
+}
+.box1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin-top: 5%;
+    width: 20%;
+    height: 200px;
+    float: left;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: center; 
+    padding-top: 3%; 
+
+}
+.fa-basketball:hover{
+    color: blueviolet;
+    
+}
+.fa-basketball{
+    
+    color: skyblue;
+    font-size: 50px;
+    
+}
+.box2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin-top: 5%;
+    float:left;
+    margin-right: 10%;
+    
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    padding-top: 3%; 
+    
+}
+.fa-address-book:hover{
+    color: orangered;
+
+}
+.fa-address-book{
+    font-size: 50px;
+    color: yellow;
+
+
+}
+.box3{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin-top: 5%;
+    float:left;
+    overflow: hidden;
+    margin-right: 2%;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    padding-top: 3%; 
+    
+}
+.fa-clock:hover{
+    color: violet;
+
+}
+.fa-clock{
+    font-size: 50px;
+    color: blueviolet;
+
+}
+.box4{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin-top: 2%;
+    float:left;
+    overflow: hidden;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    padding-top: 3%; 
+    
+}
+.fa-book:hover{
+    color: palevioletred;
+
+}
+.fa-book{
+    font-size: 50px;
+    color: darkblue;
+
+}
+.box5{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin-top: 2%;
+    float:left;
+    overflow: hidden;
+    margin-right: 10%;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    padding-top: 3%; 
+    
+}
+.fa-display:hover{
+    color: gold;
+
+}
+.fa-display{
+    font-size: 50px;
+    color: greenyellow;
+
+}
+.box6{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin-top: 2%;
+    float:left;
+    overflow: hidden;
+    margin-right: 10%;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    padding-top: 3%; 
+}
+.fa-bridge:hover{
+    color: navy;
+
+}
+.fa-bridge{
+    font-size: 50px;
+    color: mediumaquamarine;
+
+}

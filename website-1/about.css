@@ -1,0 +1,193 @@
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    opacity: 0.6;
+
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 8%;
+    margin-right:8% ;
+    opacity: 0.6;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin-left: 8%;
+    margin-right:8% ;
+    line-height: 30px;
+    
+}
+.container2{
+display: flex;
+margin-right: 7%;
+margin-top: 5%;
+
+}
+.left2{
+    width: 50%;
+    margin-left: 7%;
+   
+
+}
+.html{
+    background-color: aqua;
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 4%;
+
+}
+.css{
+    background-color: aqua;
+    width: 90%;
+    margin-top: 1%;
+    margin-bottom: 4%;
+}
+.js{
+    background-color: aqua;
+    width: 75%;
+    margin-top: 1%;
+    margin-bottom: 4%;
+}
+.php{
+    background-color: aqua;
+    width: 80%;
+    margin-top: 1%;
+    margin-bottom: 4%;
+}
+.cms{
+    background-color: aqua;
+    width: 90%;
+    margin-top: 1%;
+    margin-bottom: 4%;
+
+}
+.ps{
+    background-color: aqua;
+    width: 55%;
+    margin-top: 1%;
+    margin-bottom: 4%;
+}
+.percentage{
+    float: right;
+}
+.right2{
+    width: 50%;
+    margin-left: 2%;
+
+}
+.left{
+    width: 25%;
+   margin-right: 5%;
+}
+.right{
+    width: 60%;
+    margin-left: 3%;
+    opacity: 0.6;
+}
+
+.container1{
+    display: flex;
+    margin-left:5% ;
+    margin-right:5% ;
+}
+.left1{
+    margin-right:5% ;
+    margin-left:5% ;
+
+}
+.right1{
+    margin-right:7% ;
+    margin-left:5% ;
+
+}
+.header2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    opacity: 0.6;
+}
+.para2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 7%;
+    margin-right:7% ;
+    opacity: 0.6;
+    
+}
+.header3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    opacity: 0.6;
+}
+.para3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 7%;
+    margin-right:7% ;
+    opacity: 0.6;
+}
+.container3{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin-left: 10%;
+    opacity: 0.6;
+}
+.box1{
+    width: 20%;
+    font-size: larger;
+    margin-right: 2%;
+}
+.box2{
+    float: right;
+    width: 20%;
+    font-size: larger;
+    margin-right: 2%;
+    
+}
+.box3{
+    float: right;
+    width: 20%;
+    font-size: larger;
+    margin-right: 2%;
+}
+.box4{
+    float: right;
+    width: 30%;
+}
+.names{
+    color: aqua;
+}
+.header4{
+    margin-top: 5%;
+    opacity: 0.6;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.para4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    opacity: 0.6;
+    margin-left: 7%;
+    margin-right:7% ;
+
+}
+
+.images{
+    
+    margin-top: 3%;
+    border-radius: 50%;
+    width: 8%;
+    
+}
+.end{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+
+}
+.para-end{
+    margin-left:8% ;
+    margin-right:8% ;
+    opacity: 0.6;
+}

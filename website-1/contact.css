@@ -1,0 +1,89 @@
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    opacity: 0.6;
+}
+p{
+    margin-left:9% ;
+    margin-right:9% ;
+   line-height: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 0.6;
+}
+iframe{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.fa-location-dot:hover{
+    color: lightgreen;
+
+}
+.fa-location-dot{
+    font-size: 50px;
+    margin-top: 3%;
+    color: blueviolet;
+
+}
+.fa-envelope:hover{
+    color: lightgreen;
+}
+
+.fa-mobile-screen:hover{
+    color: lightgreen;
+
+}
+.fa-mobile-screen{
+    font-size: 50px;
+    margin-top: 3%;
+    color: purple;
+}
+.fa-envelope{
+    font-size: 50px;
+    margin-top: 3%;
+    color:orange;
+}
+
+.data{
+    margin-left: 40px;
+}
+.container{
+    display: flex;
+}
+.left{
+    margin-left: 80px;
+    width: 30%;
+}
+.right{   
+    padding: 50px;
+    width: 50%;
+}
+li{
+    list-style: none;
+    padding: 20px;
+}
+li textarea{
+    width: 100%;
+    height: 10vh;
+}
+input{
+    padding-right: 100px;
+    margin-right: 20px;
+    padding-top: 20px;
+    text-align: center;
+    
+}
+.input{
+    float: right;
+}
+.btn1:hover{
+    background-color: lightgreen;
+}
+.btn1{
+    text-align: center;
+    padding: 8px 28px;
+    border-radius: 50px;
+    margin: 10px;
+    border-color: lightgreen;  
+}
